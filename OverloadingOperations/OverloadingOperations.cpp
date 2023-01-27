@@ -3,8 +3,6 @@
 
 using namespace std;
 
-/*Надо убрать read и display, а вместо них переопределить операции ввода вывода*/
-
 class Fraction {
 private:
     long first;
